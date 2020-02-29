@@ -10,6 +10,7 @@ public class Main {
         System.out.println("teraz sprawdzam");
         System.out.println("teraz jest godzina 13:58 i ja zaliczam ten przedmiot :) ");
         System.out.println("ostatnia");
+        System.out.println("dodajemy linijkę");
         mFigury.add(new Szescian(1));
         mFigury.add(new Szescian(4));
         mFigury.add(new Szescian(3));
