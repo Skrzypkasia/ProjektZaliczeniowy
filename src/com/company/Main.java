@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Main {
     static ArrayList<Figury> mFigury = new ArrayList<>();
 
+
     public static void main(String[] args) {
         mFigury.add(new Szescian(1));
         mFigury.add(new Szescian(4));
@@ -39,3 +40,4 @@ public class Main {
 
     }
 }
+
