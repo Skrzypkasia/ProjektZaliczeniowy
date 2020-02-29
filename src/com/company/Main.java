@@ -9,6 +9,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("teraz sprawdzam");
         System.out.println("teraz jest godzina 13:58 i ja zaliczam ten przedmiot :) ");
+        System.out.println("ostatnia");
         mFigury.add(new Szescian(1));
         mFigury.add(new Szescian(4));
         mFigury.add(new Szescian(3));
